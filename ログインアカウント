@@ -1,0 +1,11 @@
+--adminアカウント--
+ID：siteadmin
+パスワード：admin123456789
+
+ID；subadmin
+パスワード：admin987654321
+
+
+--userアカウント--
+メールアドレス：koyama@sample.com
+パスワード：sample1234
